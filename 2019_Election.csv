@@ -1,0 +1,651 @@
+uri,constituency > label,election > label,electorate,majority,result of election,turnout
+http://data.parliament.uk/resources/1223004,Aberdeen North,2019 General Election,62489,12670,SNP Hold,37413
+http://data.parliament.uk/resources/1223005,Aberdeen South,2019 General Election,65719,3990,SNP Gain,45638
+http://data.parliament.uk/resources/1223006,Airdrie and Shotts,2019 General Election,64011,5201,SNP Hold,39772
+http://data.parliament.uk/resources/1223007,Angus,2019 General Election,63952,3795,SNP Gain,43170
+http://data.parliament.uk/resources/1223008,Argyll and Bute,2019 General Election,66525,4110,SNP Hold,48050
+http://data.parliament.uk/resources/1223009,"Ayr, Carrick and Cumnock",2019 General Election,71970,2329,SNP Gain,46592
+http://data.parliament.uk/resources/1223010,Banff and Buchan,2019 General Election,66655,4118,Con Hold,42260
+http://data.parliament.uk/resources/1223011,"Berwickshire, Roxburgh and Selkirk",2019 General Election,74518,5148,Con Hold,53146
+http://data.parliament.uk/resources/1223012,"Caithness, Sutherland and Easter Ross",2019 General Election,46930,204,LD Hold,31457
+http://data.parliament.uk/resources/1223013,Central Ayrshire,2019 General Election,69742,5304,SNP Hold,46534
+http://data.parliament.uk/resources/1223014,"Coatbridge, Chryston and Bellshill",2019 General Election,72943,5624,SNP Gain,48221
+http://data.parliament.uk/resources/1223015,"Cumbernauld, Kilsyth and Kirkintilloch East",2019 General Election,66079,12976,SNP Hold,45686
+http://data.parliament.uk/resources/1223016,Dumfries and Galloway,2019 General Election,74580,1805,Con Hold,51429
+http://data.parliament.uk/resources/1223017,"Dumfriesshire, Clydesdale and Tweeddale",2019 General Election,68330,3781,Con Hold,49153
+http://data.parliament.uk/resources/1223018,Dundee East,2019 General Election,66210,13375,SNP Hold,45277
+http://data.parliament.uk/resources/1223019,Dundee West,2019 General Election,64431,12259,SNP Hold,41579
+http://data.parliament.uk/resources/1223020,Dunfermline and West Fife,2019 General Election,76652,10699,SNP Hold,53482
+http://data.parliament.uk/resources/1223021,East Dunbartonshire,2019 General Election,66075,149,SNP Gain,53031
+http://data.parliament.uk/resources/1223022,"East Kilbride, Strathaven and Lesmahagow",2019 General Election,81224,13322,SNP Hold,56337
+http://data.parliament.uk/resources/1223023,East Lothian,2019 General Election,81600,3886,SNP Gain,58513
+http://data.parliament.uk/resources/1223024,East Renfrewshire,2019 General Election,72232,5426,SNP Gain,55357
+http://data.parliament.uk/resources/1223025,Edinburgh East,2019 General Election,69424,10417,SNP Hold,47815
+http://data.parliament.uk/resources/1223026,Edinburgh North and Leith,2019 General Election,81336,12808,SNP Hold,59344
+http://data.parliament.uk/resources/1223027,Edinburgh South,2019 General Election,66188,11095,Lab Hold,49732
+http://data.parliament.uk/resources/1223028,Edinburgh South West,2019 General Election,73501,11982,SNP Hold,52131
+http://data.parliament.uk/resources/1223029,Edinburgh West,2019 General Election,72507,3769,LD Hold,54533
+http://data.parliament.uk/resources/1223030,Falkirk,2019 General Election,84472,14948,SNP Hold,55872
+http://data.parliament.uk/resources/1223031,Glasgow Central,2019 General Election,69230,6474,SNP Hold,40105
+http://data.parliament.uk/resources/1223032,Glasgow East,2019 General Election,67381,5566,SNP Hold,38483
+http://data.parliament.uk/resources/1223033,Glasgow North,2019 General Election,57130,5601,SNP Hold,36191
+http://data.parliament.uk/resources/1223034,Glasgow North East,2019 General Election,61075,2548,SNP Gain,33925
+http://data.parliament.uk/resources/1223035,Glasgow North West,2019 General Election,63402,8359,SNP Hold,39735
+http://data.parliament.uk/resources/1223036,Glasgow South,2019 General Election,70891,9005,SNP Hold,47443
+http://data.parliament.uk/resources/1223037,Glasgow South West,2019 General Election,64575,4900,SNP Hold,36847
+http://data.parliament.uk/resources/1223038,Glenrothes,2019 General Election,65672,11757,SNP Hold,41546
+http://data.parliament.uk/resources/1223039,Gordon,2019 General Election,79629,819,SNP Gain,55916
+http://data.parliament.uk/resources/1223040,Inverclyde,2019 General Election,60622,7512,SNP Hold,39903
+http://data.parliament.uk/resources/1223041,"Inverness, Nairn, Badenoch and Strathspey",2019 General Election,78059,10440,SNP Hold,54810
+http://data.parliament.uk/resources/1223042,Kilmarnock and Loudoun,2019 General Election,74517,12659,SNP Hold,47631
+http://data.parliament.uk/resources/1223043,Kirkcaldy and Cowdenbeath,2019 General Election,72853,1243,SNP Gain,47005
+http://data.parliament.uk/resources/1223044,Lanark and Hamilton East,2019 General Election,77659,5187,SNP Hold,53072
+http://data.parliament.uk/resources/1223045,Linlithgow and East Falkirk,2019 General Election,87044,11266,SNP Hold,57775
+http://data.parliament.uk/resources/1223046,Livingston,2019 General Election,82285,13435,SNP Hold,54592
+http://data.parliament.uk/resources/1223047,Midlothian,2019 General Election,70544,5705,SNP Gain,48221
+http://data.parliament.uk/resources/1223048,Moray,2019 General Election,71035,513,Con Hold,48825
+http://data.parliament.uk/resources/1223049,Motherwell and Wishaw,2019 General Election,68856,6268,SNP Hold,44420
+http://data.parliament.uk/resources/1223050,Na h-Eileanan an Iar,2019 General Election,21106,2438,SNP Hold,14477
+http://data.parliament.uk/resources/1223051,North Ayrshire and Arran,2019 General Election,73534,8521,SNP Hold,48154
+http://data.parliament.uk/resources/1223052,North East Fife,2019 General Election,60905,1316,LD Gain,45878
+http://data.parliament.uk/resources/1223053,Ochil and South Perthshire,2019 General Election,78776,4498,SNP Gain,57813
+http://data.parliament.uk/resources/1223054,Orkney and Shetland,2019 General Election,34211,2507,LD Hold,23160
+http://data.parliament.uk/resources/1223055,Paisley and Renfrewshire North,2019 General Election,72007,11902,SNP Hold,49682
+http://data.parliament.uk/resources/1223056,Paisley and Renfrewshire South,2019 General Election,64385,10679,SNP Hold,43084
+http://data.parliament.uk/resources/1223057,Perth and North Perthshire,2019 General Election,72600,7550,SNP Hold,54076
+http://data.parliament.uk/resources/1223058,"Ross, Skye and Lochaber",2019 General Election,54230,9443,SNP Hold,39869
+http://data.parliament.uk/resources/1223059,Rutherglen and Hamilton West,2019 General Election,80918,5230,SNP Gain,53794
+http://data.parliament.uk/resources/1223060,Stirling,2019 General Election,68473,9254,SNP Gain,52620
+http://data.parliament.uk/resources/1223061,West Aberdeenshire and Kincardine,2019 General Election,72640,843,Con Hold,53345
+http://data.parliament.uk/resources/1223062,West Dunbartonshire,2019 General Election,66517,9553,SNP Hold,45140
+http://data.parliament.uk/resources/1223063,Aberavon,2019 General Election,50750,10490,Lab Hold,31598
+http://data.parliament.uk/resources/1223064,Aberconwy,2019 General Election,44699,2034,Con Hold,31865
+http://data.parliament.uk/resources/1223065,Aldershot,2019 General Election,72617,16698,Con Hold,47932
+http://data.parliament.uk/resources/1223066,Aldridge-Brownhills,2019 General Election,60138,19836,Con Hold,39342
+http://data.parliament.uk/resources/1223067,Altrincham and Sale West,2019 General Election,73107,6139,Con Hold,54763
+http://data.parliament.uk/resources/1223068,Alyn and Deeside,2019 General Election,62789,213,Lab Hold,43008
+http://data.parliament.uk/resources/1223069,Amber Valley,2019 General Election,69976,16886,Con Hold,45567
+http://data.parliament.uk/resources/1223070,Arfon,2019 General Election,42215,2781,PC Hold,29074
+http://data.parliament.uk/resources/1223071,Arundel and South Downs,2019 General Election,81726,22521,Con Hold,61408
+http://data.parliament.uk/resources/1223072,Ashfield,2019 General Election,78204,5733,Con Gain,48980
+http://data.parliament.uk/resources/1223073,Ashford,2019 General Election,89553,24029,Con Hold,60059
+http://data.parliament.uk/resources/1223074,Ashton-under-Lyne,2019 General Election,67978,4263,Lab Hold,38579
+http://data.parliament.uk/resources/1223075,Aylesbury,2019 General Election,86665,17373,Con Hold,60576
+http://data.parliament.uk/resources/1223076,Banbury,2019 General Election,90116,16813,Con Hold,62921
+http://data.parliament.uk/resources/1223077,Barking,2019 General Election,77953,15427,Lab Hold,44499
+http://data.parliament.uk/resources/1223078,Barnsley Central,2019 General Election,65277,3571,Lab Hold,36903
+http://data.parliament.uk/resources/1223079,Barnsley East,2019 General Election,69504,3217,Lab Hold,38070
+http://data.parliament.uk/resources/1223080,Barrow and Furness,2019 General Election,70158,5789,Con Gain,46046
+http://data.parliament.uk/resources/1223081,Basildon and Billericay,2019 General Election,69906,20412,Con Hold,44128
+http://data.parliament.uk/resources/1223082,Basingstoke,2019 General Election,82928,14198,Con Hold,54713
+http://data.parliament.uk/resources/1223083,Bassetlaw,2019 General Election,80024,14013,Con Gain,50841
+http://data.parliament.uk/resources/1223084,Bath,2019 General Election,67805,12322,LD Hold,52138
+http://data.parliament.uk/resources/1223085,Batley and Spen,2019 General Election,79558,3525,Lab Hold,52927
+http://data.parliament.uk/resources/1223086,Battersea,2019 General Election,79350,5668,Lab Hold,59977
+http://data.parliament.uk/resources/1223087,Beaconsfield,2019 General Election,77720,15712,Con Hold,57868
+http://data.parliament.uk/resources/1223088,Beckenham,2019 General Election,68662,14258,Con Hold,50555
+http://data.parliament.uk/resources/1223089,Bedford,2019 General Election,71581,145,Lab Hold,47301
+http://data.parliament.uk/resources/1223090,Belfast East,2019 General Election,66245,1819,DUP Hold,42445
+http://data.parliament.uk/resources/1223091,Belfast North,2019 General Election,72225,1943,SF Gain,49037
+http://data.parliament.uk/resources/1223092,Belfast South,2019 General Election,69984,15401,SDLP Gain,47352
+http://data.parliament.uk/resources/1223093,Belfast West,2019 General Election,65644,14672,SF Hold,38782
+http://data.parliament.uk/resources/1223094,Bermondsey and Old Southwark,2019 General Election,93248,16126,Lab Hold,58615
+http://data.parliament.uk/resources/1223095,Berwick-upon-Tweed,2019 General Election,59939,14835,Con Hold,42109
+http://data.parliament.uk/resources/1223096,Bethnal Green and Bow,2019 General Election,88262,37524,Lab Hold,60562
+http://data.parliament.uk/resources/1223097,Beverley and Holderness,2019 General Election,79696,20448,Con Hold,53542
+http://data.parliament.uk/resources/1223098,Bexhill and Battle,2019 General Election,81963,26059,Con Hold,59093
+http://data.parliament.uk/resources/1223099,Bexleyheath and Crayford,2019 General Election,65466,13103,Con Hold,43246
+http://data.parliament.uk/resources/1223100,Birkenhead,2019 General Election,63762,17705,Lab Hold,42329
+http://data.parliament.uk/resources/1223101,"Birmingham, Edgbaston",2019 General Election,68828,5614,Lab Hold,42328
+http://data.parliament.uk/resources/1223102,"Birmingham, Erdington",2019 General Election,66148,3601,Lab Hold,35229
+http://data.parliament.uk/resources/1223103,"Birmingham, Hall Green",2019 General Election,80283,28508,Lab Hold,52911
+http://data.parliament.uk/resources/1223104,"Birmingham, Hodge Hill",2019 General Election,78295,28655,Lab Hold,45003
+http://data.parliament.uk/resources/1223105,"Birmingham, Ladywood",2019 General Election,74912,28582,Lab Hold,42118
+http://data.parliament.uk/resources/1223106,"Birmingham, Northfield",2019 General Election,73694,1640,Con Gain,43098
+http://data.parliament.uk/resources/1223107,"Birmingham, Perry Barr",2019 General Election,72006,15317,Lab Hold,42147
+http://data.parliament.uk/resources/1223108,"Birmingham, Selly Oak",2019 General Election,82665,12414,Lab Hold,49467
+http://data.parliament.uk/resources/1223109,"Birmingham, Yardley",2019 General Election,74704,10659,Lab Hold,42678
+http://data.parliament.uk/resources/1223110,Bishop Auckland,2019 General Election,68170,7962,Con Gain,44805
+http://data.parliament.uk/resources/1223111,Blackburn,2019 General Election,71234,18304,Lab Hold,44736
+http://data.parliament.uk/resources/1223112,Blackley and Broughton,2019 General Election,73372,14402,Lab Hold,38618
+http://data.parliament.uk/resources/1223113,Blackpool North and Cleveleys,2019 General Election,63692,8596,Con Hold,38804
+http://data.parliament.uk/resources/1223114,Blackpool South,2019 General Election,57690,3690,Con Gain,32752
+http://data.parliament.uk/resources/1223115,Blaenau Gwent,2019 General Election,50739,8647,Lab Hold,30219
+http://data.parliament.uk/resources/1223116,Blaydon,2019 General Election,67853,5531,Lab Hold,45681
+http://data.parliament.uk/resources/1223117,Blyth Valley,2019 General Election,64429,712,Con Gain,40859
+http://data.parliament.uk/resources/1223118,Bognor Regis and Littlehampton,2019 General Election,77446,22503,Con Hold,51223
+http://data.parliament.uk/resources/1223119,Bolsover,2019 General Election,75161,5299,Con Gain,45938
+http://data.parliament.uk/resources/1223120,Bolton North East,2019 General Election,67564,378,Con Gain,43556
+http://data.parliament.uk/resources/1223121,Bolton South East,2019 General Election,69163,7598,Lab Hold,40604
+http://data.parliament.uk/resources/1223122,Bolton West,2019 General Election,73191,8855,Con Hold,49298
+http://data.parliament.uk/resources/1223123,Bootle,2019 General Election,74832,34556,Lab Hold,49174
+http://data.parliament.uk/resources/1223124,Boston and Skegness,2019 General Election,69381,25621,Con Hold,41696
+http://data.parliament.uk/resources/1223125,Bosworth,2019 General Election,81542,26278,Con Hold,56432
+http://data.parliament.uk/resources/1223126,Bournemouth East,2019 General Election,74125,8806,Con Hold,49274
+http://data.parliament.uk/resources/1223127,Bournemouth West,2019 General Election,74205,10150,Con Hold,45977
+http://data.parliament.uk/resources/1223128,Bracknell,2019 General Election,78978,19829,Con Hold,54350
+http://data.parliament.uk/resources/1223129,Bradford East,2019 General Election,73206,18144,Lab Hold,44184
+http://data.parliament.uk/resources/1223130,Bradford South,2019 General Election,69046,2346,Lab Hold,39741
+http://data.parliament.uk/resources/1223131,Bradford West,2019 General Election,70694,27019,Lab Hold,44261
+http://data.parliament.uk/resources/1223132,Braintree,2019 General Election,75208,24673,Con Hold,50499
+http://data.parliament.uk/resources/1223133,Brecon and Radnorshire,2019 General Election,55490,7131,Con Hold,41319
+http://data.parliament.uk/resources/1223134,Brent Central,2019 General Election,84032,20870,Lab Hold,49132
+http://data.parliament.uk/resources/1223135,Brent North,2019 General Election,83788,8079,Lab Hold,51879
+http://data.parliament.uk/resources/1223136,Brentford and Isleworth,2019 General Election,85775,10514,Lab Hold,58326
+http://data.parliament.uk/resources/1223137,Brentwood and Ongar,2019 General Election,75255,29065,Con Hold,52949
+http://data.parliament.uk/resources/1223138,Bridgend,2019 General Election,63303,1157,Con Gain,42236
+http://data.parliament.uk/resources/1223139,Bridgwater and West Somerset,2019 General Election,85327,24439,Con Hold,57652
+http://data.parliament.uk/resources/1223140,Brigg and Goole,2019 General Election,65939,21941,Con Hold,43402
+http://data.parliament.uk/resources/1223141,"Brighton, Kemptown",2019 General Election,69833,8061,Lab Hold,48533
+http://data.parliament.uk/resources/1223142,"Brighton, Pavilion",2019 General Election,79057,19940,Green Hold,57998
+http://data.parliament.uk/resources/1223143,Bristol East,2019 General Election,73867,10794,Lab Hold,52154
+http://data.parliament.uk/resources/1223144,Bristol North West,2019 General Election,76273,5692,Lab Hold,55885
+http://data.parliament.uk/resources/1223145,Bristol South,2019 General Election,84079,9859,Lab Hold,55196
+http://data.parliament.uk/resources/1223146,Bristol West,2019 General Election,99253,28219,Lab Hold,75528
+http://data.parliament.uk/resources/1223147,Broadland,2019 General Election,78151,21861,Con Hold,56977
+http://data.parliament.uk/resources/1223148,Bromley and Chislehurst,2019 General Election,66697,10891,Con Hold,45566
+http://data.parliament.uk/resources/1223149,Bromsgrove,2019 General Election,75078,23106,Con Hold,54272
+http://data.parliament.uk/resources/1223150,Broxbourne,2019 General Election,73182,19807,Con Hold,46706
+http://data.parliament.uk/resources/1223151,Broxtowe,2019 General Election,73052,5331,Con Hold,55272
+http://data.parliament.uk/resources/1223152,Buckingham,2019 General Election,83146,20411,Con Gain,63458
+http://data.parliament.uk/resources/1223153,Burnley,2019 General Election,64345,1352,Con Gain,38984
+http://data.parliament.uk/resources/1223154,Burton,2019 General Election,75036,14496,Con Hold,48738
+http://data.parliament.uk/resources/1223155,Bury North,2019 General Election,68802,105,Con Gain,46841
+http://data.parliament.uk/resources/1223156,Bury South,2019 General Election,75152,402,Con Gain,50274
+http://data.parliament.uk/resources/1223157,Bury St Edmunds,2019 General Election,89644,24988,Con Hold,61957
+http://data.parliament.uk/resources/1223158,Caerphilly,2019 General Election,63166,6833,Lab Hold,40117
+http://data.parliament.uk/resources/1223159,Calder Valley,2019 General Election,79287,5774,Con Hold,57793
+http://data.parliament.uk/resources/1223160,Camberwell and Peckham,2019 General Election,88971,33780,Lab Hold,56492
+http://data.parliament.uk/resources/1223161,Camborne and Redruth,2019 General Election,70250,8700,Con Hold,50367
+http://data.parliament.uk/resources/1223162,Cambridge,2019 General Election,79951,9639,Lab Hold,53729
+http://data.parliament.uk/resources/1223163,Cannock Chase,2019 General Election,74813,19879,Con Hold,46313
+http://data.parliament.uk/resources/1223164,Canterbury,2019 General Election,80203,1836,Lab Hold,60113
+http://data.parliament.uk/resources/1223165,Cardiff Central,2019 General Election,64037,17179,Lab Hold,41822
+http://data.parliament.uk/resources/1223166,Cardiff North,2019 General Election,68438,6982,Lab Hold,52666
+http://data.parliament.uk/resources/1223167,Cardiff South and Penarth,2019 General Election,78837,12737,Lab Hold,50579
+http://data.parliament.uk/resources/1223168,Cardiff West,2019 General Election,68508,10986,Lab Hold,46177
+http://data.parliament.uk/resources/1223169,Carlisle,2019 General Election,65105,8319,Con Hold,42873
+http://data.parliament.uk/resources/1223170,Carmarthen East and Dinefwr,2019 General Election,57419,1809,PC Hold,41002
+http://data.parliament.uk/resources/1223171,Carmarthen West and South Pembrokeshire,2019 General Election,59158,7745,Con Hold,42114
+http://data.parliament.uk/resources/1223172,Carshalton and Wallington,2019 General Election,72941,629,Con Gain,49098
+http://data.parliament.uk/resources/1223173,Castle Point,2019 General Election,69608,26634,Con Hold,44277
+http://data.parliament.uk/resources/1223174,Central Devon,2019 General Election,74926,17721,Con Hold,58072
+http://data.parliament.uk/resources/1223175,Central Suffolk and North Ipswich,2019 General Election,80037,23391,Con Hold,56250
+http://data.parliament.uk/resources/1223176,Ceredigion,2019 General Election,56250,6329,PC Hold,40105
+http://data.parliament.uk/resources/1223177,Charnwood,2019 General Election,79534,22397,Con Hold,55365
+http://data.parliament.uk/resources/1223178,Chatham and Aylesford,2019 General Election,71642,18540,Con Hold,43340
+http://data.parliament.uk/resources/1223179,Cheadle,2019 General Election,74577,2336,Con Hold,55903
+http://data.parliament.uk/resources/1223180,Chelmsford,2019 General Election,80394,17621,Con Hold,57122
+http://data.parliament.uk/resources/1223181,Chelsea and Fulham,2019 General Election,67110,11241,Con Hold,46821
+http://data.parliament.uk/resources/1223182,Cheltenham,2019 General Election,81044,981,Con Hold,59357
+http://data.parliament.uk/resources/1223183,Chesham and Amersham,2019 General Election,72542,16223,Con Hold,55685
+http://data.parliament.uk/resources/1223184,Chesterfield,2019 General Election,71034,1451,Lab Hold,45186
+http://data.parliament.uk/resources/1223185,Chichester,2019 General Election,85499,21490,Con Hold,61243
+http://data.parliament.uk/resources/1223186,Chingford and Woodford Green,2019 General Election,65393,1262,Con Hold,48444
+http://data.parliament.uk/resources/1223187,Chippenham,2019 General Election,77221,11288,Con Hold,57099
+http://data.parliament.uk/resources/1223188,Chipping Barnet,2019 General Election,79960,1212,Con Hold,57569
+http://data.parliament.uk/resources/1223189,Chorley,2019 General Election,78177,17392,Spk Gain,39870
+http://data.parliament.uk/resources/1223190,Christchurch,2019 General Election,71520,24617,Con Hold,51951
+http://data.parliament.uk/resources/1223191,Cities of London and Westminster,2019 General Election,63700,3953,Con Hold,42723
+http://data.parliament.uk/resources/1223192,City of Chester,2019 General Election,76057,6164,Lab Hold,54560
+http://data.parliament.uk/resources/1223193,City of Durham,2019 General Election,71271,5025,Lab Hold,48859
+http://data.parliament.uk/resources/1223194,Clacton,2019 General Election,70930,24702,Con Hold,43506
+http://data.parliament.uk/resources/1223195,Cleethorpes,2019 General Election,73689,21418,Con Hold,46339
+http://data.parliament.uk/resources/1223196,Clwyd South,2019 General Election,53919,1239,Con Gain,36306
+http://data.parliament.uk/resources/1223197,Clwyd West,2019 General Election,57714,6747,Con Hold,40203
+http://data.parliament.uk/resources/1223198,Colchester,2019 General Election,82625,9423,Con Hold,53373
+http://data.parliament.uk/resources/1223199,Colne Valley,2019 General Election,84174,5103,Con Gain,60892
+http://data.parliament.uk/resources/1223200,Congleton,2019 General Election,80930,18561,Con Hold,57233
+http://data.parliament.uk/resources/1223201,Copeland,2019 General Election,61693,5842,Con Hold,42523
+http://data.parliament.uk/resources/1223202,Corby,2019 General Election,86153,10268,Con Hold,60475
+http://data.parliament.uk/resources/1223203,Coventry North East,2019 General Election,76006,7692,Lab Hold,44444
+http://data.parliament.uk/resources/1223204,Coventry North West,2019 General Election,75247,208,Lab Hold,47744
+http://data.parliament.uk/resources/1223205,Coventry South,2019 General Election,70979,401,Lab Hold,45044
+http://data.parliament.uk/resources/1223206,Crawley,2019 General Election,74207,8360,Con Hold,49899
+http://data.parliament.uk/resources/1223207,Crewe and Nantwich,2019 General Election,80321,8508,Con Gain,54032
+http://data.parliament.uk/resources/1223208,Croydon Central,2019 General Election,81407,5949,Lab Hold,54045
+http://data.parliament.uk/resources/1223209,Croydon North,2019 General Election,88468,24673,Lab Hold,55609
+http://data.parliament.uk/resources/1223210,Croydon South,2019 General Election,83982,12339,Con Hold,59358
+http://data.parliament.uk/resources/1223211,Cynon Valley,2019 General Election,51134,8822,Lab Hold,30236
+http://data.parliament.uk/resources/1223212,Dagenham and Rainham,2019 General Election,71045,293,Lab Hold,43735
+http://data.parliament.uk/resources/1223213,Darlington,2019 General Election,66397,3294,Con Gain,43498
+http://data.parliament.uk/resources/1223214,Dartford,2019 General Election,82209,19160,Con Hold,54023
+http://data.parliament.uk/resources/1223215,Daventry,2019 General Election,77423,26080,Con Hold,57403
+http://data.parliament.uk/resources/1223216,Delyn,2019 General Election,54560,865,Con Gain,38370
+http://data.parliament.uk/resources/1223217,Denton and Reddish,2019 General Election,66234,6175,Lab Hold,38588
+http://data.parliament.uk/resources/1223218,Derby North,2019 General Election,73199,2540,Con Gain,47017
+http://data.parliament.uk/resources/1223219,Derby South,2019 General Election,73062,6019,Lab Hold,42462
+http://data.parliament.uk/resources/1223220,Derbyshire Dales,2019 General Election,65080,17381,Con Hold,50016
+http://data.parliament.uk/resources/1223221,Devizes,2019 General Election,73372,23993,Con Hold,50954
+http://data.parliament.uk/resources/1223222,Dewsbury,2019 General Election,81253,1561,Con Gain,56389
+http://data.parliament.uk/resources/1223223,Don Valley,2019 General Election,75356,3630,Con Gain,45437
+http://data.parliament.uk/resources/1223224,Doncaster Central,2019 General Election,71389,2278,Lab Hold,41581
+http://data.parliament.uk/resources/1223225,Doncaster North,2019 General Election,72362,2370,Lab Hold,40698
+http://data.parliament.uk/resources/1223226,Dover,2019 General Election,76355,12278,Con Hold,50701
+http://data.parliament.uk/resources/1223227,Dudley North,2019 General Election,61936,11533,Con Gain,36684
+http://data.parliament.uk/resources/1223228,Dudley South,2019 General Election,60731,15565,Con Hold,36576
+http://data.parliament.uk/resources/1223229,Dulwich and West Norwood,2019 General Election,80331,27310,Lab Hold,55778
+http://data.parliament.uk/resources/1223230,Dwyfor Meirionnydd,2019 General Election,44362,4740,PC Hold,29928
+http://data.parliament.uk/resources/1223231,Ealing Central and Acton,2019 General Election,75510,13300,Lab Hold,54807
+http://data.parliament.uk/resources/1223232,Ealing North,2019 General Election,74473,12269,Lab Hold,49631
+http://data.parliament.uk/resources/1223233,"Ealing, Southall",2019 General Election,64581,16084,Lab Hold,42217
+http://data.parliament.uk/resources/1223234,Easington,2019 General Election,61182,6581,Lab Hold,34583
+http://data.parliament.uk/resources/1223235,East Antrim,2019 General Election,64830,6706,DUP Hold,37261
+http://data.parliament.uk/resources/1223236,East Devon,2019 General Election,87168,6708,Con Hold,64073
+http://data.parliament.uk/resources/1223237,East Ham,2019 General Election,88319,33176,Lab Hold,54628
+http://data.parliament.uk/resources/1223238,East Hampshire,2019 General Election,76478,19696,Con Hold,56895
+http://data.parliament.uk/resources/1223239,East Londonderry,2019 General Election,69246,9607,DUP Hold,39302
+http://data.parliament.uk/resources/1223240,East Surrey,2019 General Election,83148,24040,Con Hold,59690
+http://data.parliament.uk/resources/1223241,East Worthing and Shoreham,2019 General Election,75194,7474,Con Hold,53128
+http://data.parliament.uk/resources/1223242,East Yorkshire,2019 General Election,80923,22787,Con Hold,52769
+http://data.parliament.uk/resources/1223243,Eastbourne,2019 General Election,79307,4331,Con Gain,55134
+http://data.parliament.uk/resources/1223244,Eastleigh,2019 General Election,83880,15607,Con Hold,58971
+http://data.parliament.uk/resources/1223245,Eddisbury,2019 General Election,73700,18443,Con Hold,52971
+http://data.parliament.uk/resources/1223246,Edmonton,2019 General Election,65747,16015,Lab Hold,40341
+http://data.parliament.uk/resources/1223247,Ellesmere Port and Neston,2019 General Election,70327,8764,Lab Hold,48746
+http://data.parliament.uk/resources/1223248,Elmet and Rothwell,2019 General Election,80957,17353,Con Hold,58225
+http://data.parliament.uk/resources/1223249,Eltham,2019 General Election,64086,3197,Lab Hold,43689
+http://data.parliament.uk/resources/1223250,Enfield North,2019 General Election,68301,6492,Lab Hold,45050
+http://data.parliament.uk/resources/1223251,"Enfield, Southgate",2019 General Election,65525,4450,Lab Hold,47276
+http://data.parliament.uk/resources/1223252,Epping Forest,2019 General Election,74304,22173,Con Hold,50268
+http://data.parliament.uk/resources/1223253,Epsom and Ewell,2019 General Election,81138,17873,Con Hold,59451
+http://data.parliament.uk/resources/1223254,Erewash,2019 General Election,72523,10606,Con Hold,48814
+http://data.parliament.uk/resources/1223255,Erith and Thamesmead,2019 General Election,65399,3758,Lab Hold,41384
+http://data.parliament.uk/resources/1223256,Esher and Walton,2019 General Election,81184,2743,Con Hold,63084
+http://data.parliament.uk/resources/1223257,Exeter,2019 General Election,82054,10403,Lab Hold,56192
+http://data.parliament.uk/resources/1223258,Fareham,2019 General Election,78337,26086,Con Hold,57250
+http://data.parliament.uk/resources/1223259,Faversham and Mid Kent,2019 General Election,73403,21976,Con Hold,50394
+http://data.parliament.uk/resources/1223260,Feltham and Heston,2019 General Election,80934,7859,Lab Hold,47811
+http://data.parliament.uk/resources/1223261,Fermanagh and South Tyrone,2019 General Election,72848,57,SF Hold,50762
+http://data.parliament.uk/resources/1223262,Filton and Bradley Stoke,2019 General Election,74016,5646,Con Hold,53752
+http://data.parliament.uk/resources/1223263,Finchley and Golders Green,2019 General Election,77573,6562,Con Hold,55109
+http://data.parliament.uk/resources/1223264,Folkestone and Hythe,2019 General Election,88272,21337,Con Hold,59005
+http://data.parliament.uk/resources/1223265,Forest of Dean,2019 General Election,71438,15869,Con Hold,51475
+http://data.parliament.uk/resources/1223266,Foyle,2019 General Election,74346,17110,SDLP Gain,47144
+http://data.parliament.uk/resources/1223267,Fylde,2019 General Election,66847,16611,Con Hold,46659
+http://data.parliament.uk/resources/1223268,Gainsborough,2019 General Election,76343,22967,Con Hold,51046
+http://data.parliament.uk/resources/1223269,Garston and Halewood,2019 General Election,76116,31624,Lab Hold,53326
+http://data.parliament.uk/resources/1223270,Gateshead,2019 General Election,64449,7200,Lab Hold,38145
+http://data.parliament.uk/resources/1223271,Gedling,2019 General Election,71366,679,Con Gain,49953
+http://data.parliament.uk/resources/1223272,Gillingham and Rainham,2019 General Election,73549,15119,Con Hold,45958
+http://data.parliament.uk/resources/1223273,Gloucester,2019 General Election,81319,10277,Con Hold,53764
+http://data.parliament.uk/resources/1223274,Gosport,2019 General Election,73541,23278,Con Hold,48453
+http://data.parliament.uk/resources/1223275,Gower,2019 General Election,61762,1837,Lab Hold,44482
+http://data.parliament.uk/resources/1223276,Grantham and Stamford,2019 General Election,81502,26003,Con Hold,56003
+http://data.parliament.uk/resources/1223277,Gravesham,2019 General Election,73242,15581,Con Hold,47560
+http://data.parliament.uk/resources/1223278,Great Grimsby,2019 General Election,61409,7331,Con Gain,33087
+http://data.parliament.uk/resources/1223279,Great Yarmouth,2019 General Election,71957,17663,Con Hold,43462
+http://data.parliament.uk/resources/1223280,Greenwich and Woolwich,2019 General Election,79997,18464,Lab Hold,53120
+http://data.parliament.uk/resources/1223281,Guildford,2019 General Election,77729,3337,Con Hold,58651
+http://data.parliament.uk/resources/1223282,Hackney North and Stoke Newington,2019 General Election,92462,33188,Lab Hold,56864
+http://data.parliament.uk/resources/1223283,Hackney South and Shoreditch,2019 General Election,89387,33985,Lab Hold,54439
+http://data.parliament.uk/resources/1223284,Halesowen and Rowley Regis,2019 General Election,68300,12074,Con Hold,42345
+http://data.parliament.uk/resources/1223285,Halifax,2019 General Election,71887,2569,Lab Hold,46458
+http://data.parliament.uk/resources/1223286,Haltemprice and Howden,2019 General Election,71083,20329,Con Hold,49779
+http://data.parliament.uk/resources/1223287,Halton,2019 General Election,71930,18975,Lab Hold,46203
+http://data.parliament.uk/resources/1223288,Hammersmith,2019 General Election,74759,17847,Lab Hold,51966
+http://data.parliament.uk/resources/1223289,Hampstead and Kilburn,2019 General Election,86571,14188,Lab Hold,57385
+http://data.parliament.uk/resources/1223290,Harborough,2019 General Election,80151,17278,Con Hold,57319
+http://data.parliament.uk/resources/1223291,Harlow,2019 General Election,68078,14063,Con Hold,43354
+http://data.parliament.uk/resources/1223292,Harrogate and Knaresborough,2019 General Election,77941,9675,Con Hold,56937
+http://data.parliament.uk/resources/1223293,Harrow East,2019 General Election,72106,8170,Con Hold,49491
+http://data.parliament.uk/resources/1223294,Harrow West,2019 General Election,72464,8692,Lab Hold,47922
+http://data.parliament.uk/resources/1223295,Hartlepool,2019 General Election,70855,3595,Lab Hold,41037
+http://data.parliament.uk/resources/1223296,Harwich and North Essex,2019 General Election,74153,20182,Con Hold,51963
+http://data.parliament.uk/resources/1223297,Hastings and Rye,2019 General Election,80524,4043,Con Hold,54274
+http://data.parliament.uk/resources/1223298,Havant,2019 General Election,72103,21792,Con Hold,45959
+http://data.parliament.uk/resources/1223299,Hayes and Harlington,2019 General Election,72357,9261,Lab Hold,43994
+http://data.parliament.uk/resources/1223300,Hazel Grove,2019 General Election,63346,4423,Con Hold,44269
+http://data.parliament.uk/resources/1223301,Hemel Hempstead,2019 General Election,74035,14563,Con Hold,51271
+http://data.parliament.uk/resources/1223302,Hemsworth,2019 General Election,73726,1180,Lab Hold,43907
+http://data.parliament.uk/resources/1223303,Hendon,2019 General Election,82661,4230,Con Hold,55075
+http://data.parliament.uk/resources/1223304,Henley,2019 General Election,76646,14053,Con Hold,58759
+http://data.parliament.uk/resources/1223305,Hereford and South Herefordshire,2019 General Election,72085,19686,Con Hold,49646
+http://data.parliament.uk/resources/1223306,Hertford and Stortford,2019 General Election,81765,19620,Con Hold,60094
+http://data.parliament.uk/resources/1223307,Hertsmere,2019 General Election,73971,21313,Con Hold,52203
+http://data.parliament.uk/resources/1223308,Hexham,2019 General Election,61324,10549,Con Hold,46150
+http://data.parliament.uk/resources/1223309,Heywood and Middleton,2019 General Election,80162,663,Con Gain,47488
+http://data.parliament.uk/resources/1223310,High Peak,2019 General Election,74265,590,Con Gain,54173
+http://data.parliament.uk/resources/1223311,Hitchin and Harpenden,2019 General Election,76323,6895,Con Hold,58871
+http://data.parliament.uk/resources/1223312,Holborn and St Pancras,2019 General Election,86061,27763,Lab Hold,56786
+http://data.parliament.uk/resources/1223313,Hornchurch and Upminster,2019 General Election,80765,23308,Con Hold,53974
+http://data.parliament.uk/resources/1223314,Hornsey and Wood Green,2019 General Election,81814,19242,Lab Hold,61105
+http://data.parliament.uk/resources/1223315,Horsham,2019 General Election,86730,21127,Con Hold,63242
+http://data.parliament.uk/resources/1223316,Houghton and Sunderland South,2019 General Election,68835,3115,Lab Hold,39811
+http://data.parliament.uk/resources/1223317,Hove,2019 General Election,74313,17044,Lab Hold,56391
+http://data.parliament.uk/resources/1223318,Huddersfield,2019 General Election,65525,4937,Lab Hold,41882
+http://data.parliament.uk/resources/1223319,Huntingdon,2019 General Election,84657,19383,Con Hold,59147
+http://data.parliament.uk/resources/1223320,Hyndburn,2019 General Election,70842,2951,Con Gain,42406
+http://data.parliament.uk/resources/1223321,Ilford North,2019 General Election,72973,5218,Lab Hold,50114
+http://data.parliament.uk/resources/1223322,Ilford South,2019 General Election,84972,24101,Lab Hold,53477
+http://data.parliament.uk/resources/1223323,Ipswich,2019 General Election,75525,5479,Con Gain,49579
+http://data.parliament.uk/resources/1223324,Isle of Wight,2019 General Election,113021,23737,Con Hold,74442
+http://data.parliament.uk/resources/1223325,Islington North,2019 General Election,75162,26188,Lab Hold,53805
+http://data.parliament.uk/resources/1223326,Islington South and Finsbury,2019 General Election,70489,17328,Lab Hold,47816
+http://data.parliament.uk/resources/1223327,Islwyn,2019 General Election,55423,5464,Lab Hold,34350
+http://data.parliament.uk/resources/1223328,Jarrow,2019 General Election,65103,7120,Lab Hold,40736
+http://data.parliament.uk/resources/1223329,Keighley,2019 General Election,72778,2218,Con Gain,52600
+http://data.parliament.uk/resources/1223330,Kenilworth and Southam,2019 General Election,68154,20353,Con Hold,52597
+http://data.parliament.uk/resources/1223331,Kensington,2019 General Election,64609,150,Con Gain,43762
+http://data.parliament.uk/resources/1223332,Kettering,2019 General Election,73164,16765,Con Hold,49361
+http://data.parliament.uk/resources/1223333,Kingston and Surbiton,2019 General Election,81975,10489,LD Hold,60846
+http://data.parliament.uk/resources/1223334,Kingston upon Hull East,2019 General Election,65745,1239,Lab Hold,32442
+http://data.parliament.uk/resources/1223335,Kingston upon Hull North,2019 General Election,65515,7593,Lab Hold,34203
+http://data.parliament.uk/resources/1223336,Kingston upon Hull West and Hessle,2019 General Election,60192,2856,Lab Hold,31356
+http://data.parliament.uk/resources/1223337,Kingswood,2019 General Election,68972,11220,Con Hold,49314
+http://data.parliament.uk/resources/1223338,Knowsley,2019 General Election,84082,39942,Lab Hold,54938
+http://data.parliament.uk/resources/1223339,Lagan Valley,2019 General Election,75735,6499,DUP Hold,45405
+http://data.parliament.uk/resources/1223340,Lancaster and Fleetwood,2019 General Election,70059,2380,Lab Hold,45219
+http://data.parliament.uk/resources/1223341,Leeds Central,2019 General Election,90971,19270,Lab Hold,49284
+http://data.parliament.uk/resources/1223342,Leeds East,2019 General Election,67286,5531,Lab Hold,39052
+http://data.parliament.uk/resources/1223343,Leeds North East,2019 General Election,70580,17089,Lab Hold,50500
+http://data.parliament.uk/resources/1223344,Leeds North West,2019 General Election,67741,10749,Lab Hold,49283
+http://data.parliament.uk/resources/1223345,Leeds West,2019 General Election,67727,10564,Lab Hold,40281
+http://data.parliament.uk/resources/1223346,Leicester East,2019 General Election,78433,6019,Lab Hold,49421
+http://data.parliament.uk/resources/1223347,Leicester South,2019 General Election,77708,22675,Lab Hold,50147
+http://data.parliament.uk/resources/1223348,Leicester West,2019 General Election,64940,4212,Lab Hold,34775
+http://data.parliament.uk/resources/1223349,Leigh,2019 General Election,77417,1965,Con Gain,46979
+http://data.parliament.uk/resources/1223350,Lewes,2019 General Election,71503,2457,Con Hold,54851
+http://data.parliament.uk/resources/1223351,Lewisham East,2019 General Election,67857,17008,Lab Hold,44815
+http://data.parliament.uk/resources/1223352,Lewisham West and Penge,2019 General Election,74617,21543,Lab Hold,52100
+http://data.parliament.uk/resources/1223353,"Lewisham, Deptford",2019 General Election,80631,32913,Lab Hold,55368
+http://data.parliament.uk/resources/1223354,Leyton and Wanstead,2019 General Election,64852,20808,Lab Hold,44547
+http://data.parliament.uk/resources/1223355,Lichfield,2019 General Election,76616,23638,Con Hold,53993
+http://data.parliament.uk/resources/1223356,Lincoln,2019 General Election,74942,3514,Con Gain,50629
+http://data.parliament.uk/resources/1223357,"Liverpool, Riverside",2019 General Election,80310,37043,Lab Hold,52789
+http://data.parliament.uk/resources/1223358,"Liverpool, Walton",2019 General Election,62628,30520,Lab Hold,40786
+http://data.parliament.uk/resources/1223359,"Liverpool, Wavertree",2019 General Election,63458,27085,Lab Hold,43377
+http://data.parliament.uk/resources/1223360,"Liverpool, West Derby",2019 General Election,65640,29984,Lab Hold,43989
+http://data.parliament.uk/resources/1223361,Llanelli,2019 General Election,60518,4670,Lab Hold,38233
+http://data.parliament.uk/resources/1223362,Loughborough,2019 General Election,79764,7169,Con Hold,54631
+http://data.parliament.uk/resources/1223363,Louth and Horncastle,2019 General Election,79634,28868,Con Hold,52332
+http://data.parliament.uk/resources/1223364,Ludlow,2019 General Election,69444,23648,Con Hold,50225
+http://data.parliament.uk/resources/1223365,Luton North,2019 General Election,68185,9247,Lab Hold,42589
+http://data.parliament.uk/resources/1223366,Luton South,2019 General Election,69338,8756,Lab Hold,42064
+http://data.parliament.uk/resources/1223367,Macclesfield,2019 General Election,76216,10711,Con Hold,53867
+http://data.parliament.uk/resources/1223368,Maidenhead,2019 General Election,76668,18846,Con Hold,56492
+http://data.parliament.uk/resources/1223369,Maidstone and The Weald,2019 General Election,76109,21772,Con Hold,51680
+http://data.parliament.uk/resources/1223370,Makerfield,2019 General Election,74190,4740,Lab Hold,44259
+http://data.parliament.uk/resources/1223371,Maldon,2019 General Election,72438,30041,Con Hold,50408
+http://data.parliament.uk/resources/1223372,Manchester Central,2019 General Election,92247,29089,Lab Hold,52289
+http://data.parliament.uk/resources/1223373,"Manchester, Gorton",2019 General Election,76419,30339,Lab Hold,44545
+http://data.parliament.uk/resources/1223374,"Manchester, Withington",2019 General Election,76530,27905,Lab Hold,52995
+http://data.parliament.uk/resources/1223375,Mansfield,2019 General Election,77131,16306,Con Hold,49273
+http://data.parliament.uk/resources/1223376,Meon Valley,2019 General Election,75737,23555,Con Hold,54829
+http://data.parliament.uk/resources/1223377,Meriden,2019 General Election,85368,22836,Con Hold,54161
+http://data.parliament.uk/resources/1223378,Merthyr Tydfil and Rhymney,2019 General Election,56322,10606,Lab Hold,32246
+http://data.parliament.uk/resources/1223379,Mid Bedfordshire,2019 General Election,87795,24664,Con Hold,64717
+http://data.parliament.uk/resources/1223380,Mid Derbyshire,2019 General Election,67442,15385,Con Hold,49356
+http://data.parliament.uk/resources/1223381,Mid Dorset and North Poole,2019 General Election,65427,14898,Con Hold,48930
+http://data.parliament.uk/resources/1223382,Mid Norfolk,2019 General Election,82203,22594,Con Hold,56186
+http://data.parliament.uk/resources/1223383,Mid Sussex,2019 General Election,85146,18197,Con Hold,62762
+http://data.parliament.uk/resources/1223384,Mid Ulster,2019 General Election,70449,9537,SF Hold,44620
+http://data.parliament.uk/resources/1223385,Mid Worcestershire,2019 General Election,78220,28018,Con Hold,56123
+http://data.parliament.uk/resources/1223386,Middlesbrough,2019 General Election,60764,8395,Lab Hold,34097
+http://data.parliament.uk/resources/1223387,Middlesbrough South and East Cleveland,2019 General Election,72348,11626,Con Hold,47817
+http://data.parliament.uk/resources/1223388,Milton Keynes North,2019 General Election,91545,6255,Con Hold,62543
+http://data.parliament.uk/resources/1223389,Milton Keynes South,2019 General Election,96363,6944,Con Hold,64007
+http://data.parliament.uk/resources/1223390,Mitcham and Morden,2019 General Election,70021,16482,Lab Hold,45741
+http://data.parliament.uk/resources/1223391,Mole Valley,2019 General Election,74665,12041,Con Hold,57110
+http://data.parliament.uk/resources/1223392,Monmouth,2019 General Election,67098,9982,Con Hold,50217
+http://data.parliament.uk/resources/1223393,Montgomeryshire,2019 General Election,48997,12138,Con Hold,34214
+http://data.parliament.uk/resources/1223394,Morecambe and Lunesdale,2019 General Election,67397,6354,Con Hold,45310
+http://data.parliament.uk/resources/1223395,Morley and Outwood,2019 General Election,78803,11267,Con Hold,51930
+http://data.parliament.uk/resources/1223396,Neath,2019 General Election,56419,5637,Lab Hold,36756
+http://data.parliament.uk/resources/1223397,New Forest East,2019 General Election,73549,25251,Con Hold,50786
+http://data.parliament.uk/resources/1223398,New Forest West,2019 General Election,70869,24403,Con Hold,50306
+http://data.parliament.uk/resources/1223399,Newark,2019 General Election,75850,21816,Con Hold,54762
+http://data.parliament.uk/resources/1223400,Newbury,2019 General Election,83414,16047,Con Hold,59998
+http://data.parliament.uk/resources/1223401,Newcastle upon Tyne Central,2019 General Election,57845,12278,Lab Hold,37474
+http://data.parliament.uk/resources/1223402,Newcastle upon Tyne East,2019 General Election,63796,15463,Lab Hold,43365
+http://data.parliament.uk/resources/1223403,Newcastle upon Tyne North,2019 General Election,68486,5765,Lab Hold,46999
+http://data.parliament.uk/resources/1223404,Newcastle-under-Lyme,2019 General Election,68211,7446,Con Gain,44739
+http://data.parliament.uk/resources/1223405,Newport East,2019 General Election,58554,1992,Lab Hold,36282
+http://data.parliament.uk/resources/1223406,Newport West,2019 General Election,66657,902,Lab Hold,43433
+http://data.parliament.uk/resources/1223407,Newry and Armagh,2019 General Election,81226,9287,SF Hold,50779
+http://data.parliament.uk/resources/1223408,Newton Abbot,2019 General Election,72529,17501,Con Hold,52556
+http://data.parliament.uk/resources/1223409,"Normanton, Pontefract and Castleford",2019 General Election,84527,1276,Lab Hold,48259
+http://data.parliament.uk/resources/1223410,North Antrim,2019 General Election,77134,12721,DUP Hold,44051
+http://data.parliament.uk/resources/1223411,North Cornwall,2019 General Election,69935,14752,Con Hold,51678
+http://data.parliament.uk/resources/1223412,North Devon,2019 General Election,75859,14813,Con Hold,55581
+http://data.parliament.uk/resources/1223413,North Dorset,2019 General Election,76765,24301,Con Hold,56107
+http://data.parliament.uk/resources/1223414,North Down,2019 General Election,67099,2968,Alliance Gain,40643
+http://data.parliament.uk/resources/1223415,North Durham,2019 General Election,66796,4742,Lab Hold,42195
+http://data.parliament.uk/resources/1223416,North East Bedfordshire,2019 General Election,90678,24283,Con Hold,65018
+http://data.parliament.uk/resources/1223417,North East Cambridgeshire,2019 General Election,83699,29993,Con Hold,52964
+http://data.parliament.uk/resources/1223418,North East Derbyshire,2019 General Election,72345,12876,Con Hold,49217
+http://data.parliament.uk/resources/1223419,North East Hampshire,2019 General Election,78954,20211,Con Hold,59270
+http://data.parliament.uk/resources/1223420,North East Hertfordshire,2019 General Election,76123,18189,Con Hold,55327
+http://data.parliament.uk/resources/1223421,North East Somerset,2019 General Election,73692,14729,Con Hold,56308
+http://data.parliament.uk/resources/1223422,North Herefordshire,2019 General Election,70252,24856,Con Hold,51033
+http://data.parliament.uk/resources/1223423,North Norfolk,2019 General Election,70729,14395,Con Gain,50823
+http://data.parliament.uk/resources/1223424,North Shropshire,2019 General Election,83258,22949,Con Hold,56513
+http://data.parliament.uk/resources/1223425,North Somerset,2019 General Election,80194,17536,Con Hold,62055
+http://data.parliament.uk/resources/1223426,North Swindon,2019 General Election,82441,16171,Con Hold,55115
+http://data.parliament.uk/resources/1223427,North Thanet,2019 General Election,72756,17189,Con Hold,48178
+http://data.parliament.uk/resources/1223428,North Tyneside,2019 General Election,78902,9561,Lab Hold,50429
+http://data.parliament.uk/resources/1223429,North Warwickshire,2019 General Election,70271,17956,Con Hold,45914
+http://data.parliament.uk/resources/1223430,North West Cambridgeshire,2019 General Election,94909,25983,Con Hold,64533
+http://data.parliament.uk/resources/1223431,North West Durham,2019 General Election,72166,1144,Con Gain,47663
+http://data.parliament.uk/resources/1223432,North West Hampshire,2019 General Election,83083,26308,Con Hold,58918
+http://data.parliament.uk/resources/1223433,North West Leicestershire,2019 General Election,78935,20400,Con Hold,53821
+http://data.parliament.uk/resources/1223434,North West Norfolk,2019 General Election,72080,19922,Con Hold,46602
+http://data.parliament.uk/resources/1223435,North Wiltshire,2019 General Election,73280,17626,Con Hold,54758
+http://data.parliament.uk/resources/1223436,Northampton North,2019 General Election,58768,5507,Con Hold,39539
+http://data.parliament.uk/resources/1223437,Northampton South,2019 General Election,62163,4697,Con Hold,40835
+http://data.parliament.uk/resources/1223438,Norwich North,2019 General Election,67172,4738,Con Hold,46285
+http://data.parliament.uk/resources/1223439,Norwich South,2019 General Election,77845,12760,Lab Hold,51673
+http://data.parliament.uk/resources/1223440,Nottingham East,2019 General Election,66262,17393,Lab Hold,40004
+http://data.parliament.uk/resources/1223441,Nottingham North,2019 General Election,66495,4490,Lab Hold,35320
+http://data.parliament.uk/resources/1223442,Nottingham South,2019 General Election,79485,12568,Lab Hold,48134
+http://data.parliament.uk/resources/1223443,Nuneaton,2019 General Election,70226,13144,Con Hold,45190
+http://data.parliament.uk/resources/1223444,Ogmore,2019 General Election,57581,7805,Lab Hold,35390
+http://data.parliament.uk/resources/1223445,Old Bexley and Sidcup,2019 General Election,66104,18952,Con Hold,46145
+http://data.parliament.uk/resources/1223446,Oldham East and Saddleworth,2019 General Election,72120,1499,Lab Hold,46164
+http://data.parliament.uk/resources/1223447,Oldham West and Royton,2019 General Election,72999,11127,Lab Hold,44434
+http://data.parliament.uk/resources/1223448,Orpington,2019 General Election,68877,22378,Con Hold,48721
+http://data.parliament.uk/resources/1223449,Oxford East,2019 General Election,78303,17832,Lab Hold,49359
+http://data.parliament.uk/resources/1223450,Oxford West and Abingdon,2019 General Election,76951,8943,LD Hold,58824
+http://data.parliament.uk/resources/1223451,Pendle,2019 General Election,65292,6186,Con Hold,44460
+http://data.parliament.uk/resources/1223452,Penistone and Stocksbridge,2019 General Election,70925,7210,Con Gain,49520
+http://data.parliament.uk/resources/1223453,Penrith and The Border,2019 General Election,67555,18519,Con Hold,47824
+http://data.parliament.uk/resources/1223454,Peterborough,2019 General Election,72560,2580,Con Gain,47801
+http://data.parliament.uk/resources/1223455,"Plymouth, Moor View",2019 General Election,69430,12897,Con Hold,44239
+http://data.parliament.uk/resources/1223456,"Plymouth, Sutton and Devonport",2019 General Election,77852,4757,Lab Hold,53176
+http://data.parliament.uk/resources/1223457,Pontypridd,2019 General Election,60327,5887,Lab Hold,39060
+http://data.parliament.uk/resources/1223458,Poole,2019 General Election,73989,19116,Con Hold,50451
+http://data.parliament.uk/resources/1223459,Poplar and Limehouse,2019 General Election,91836,28904,Lab Hold,61276
+http://data.parliament.uk/resources/1223460,Portsmouth North,2019 General Election,71299,15780,Con Hold,45910
+http://data.parliament.uk/resources/1223461,Portsmouth South,2019 General Election,74186,5363,Lab Hold,47425
+http://data.parliament.uk/resources/1223462,Preseli Pembrokeshire,2019 General Election,59606,5062,Con Hold,42419
+http://data.parliament.uk/resources/1223463,Preston,2019 General Election,59672,12146,Lab Hold,33790
+http://data.parliament.uk/resources/1223464,Pudsey,2019 General Election,73212,3517,Con Hold,54215
+http://data.parliament.uk/resources/1223465,Putney,2019 General Election,65556,4774,Lab Gain,50467
+http://data.parliament.uk/resources/1223466,Rayleigh and Wickford,2019 General Election,78930,31000,Con Hold,54901
+http://data.parliament.uk/resources/1223467,Reading East,2019 General Election,77152,5924,Lab Hold,55918
+http://data.parliament.uk/resources/1223468,Reading West,2019 General Election,74137,4117,Con Hold,50392
+http://data.parliament.uk/resources/1223469,Redcar,2019 General Election,65864,3527,Con Gain,40842
+http://data.parliament.uk/resources/1223470,Redditch,2019 General Election,65391,16036,Con Hold,44067
+http://data.parliament.uk/resources/1223471,Reigate,2019 General Election,74242,18310,Con Hold,53156
+http://data.parliament.uk/resources/1223472,Rhondda,2019 General Election,50262,11440,Lab Hold,29642
+http://data.parliament.uk/resources/1223473,Ribble Valley,2019 General Election,79247,18439,Con Hold,55284
+http://data.parliament.uk/resources/1223474,Richmond (Yorks),2019 General Election,82569,27210,Con Hold,57703
+http://data.parliament.uk/resources/1223475,Richmond Park,2019 General Election,82699,7766,LD Gain,65067
+http://data.parliament.uk/resources/1223476,Rochdale,2019 General Election,78909,9668,Lab Hold,47447
+http://data.parliament.uk/resources/1223477,Rochester and Strood,2019 General Election,82056,17072,Con Hold,51926
+http://data.parliament.uk/resources/1223478,Rochford and Southend East,2019 General Election,75624,12286,Con Hold,46136
+http://data.parliament.uk/resources/1223479,Romford,2019 General Election,72350,17893,Con Hold,47231
+http://data.parliament.uk/resources/1223480,Romsey and Southampton North,2019 General Election,68228,10872,Con Hold,51390
+http://data.parliament.uk/resources/1223481,Rossendale and Darwen,2019 General Election,72770,9522,Con Hold,48822
+http://data.parliament.uk/resources/1223482,Rother Valley,2019 General Election,74804,6318,Con Gain,48698
+http://data.parliament.uk/resources/1223483,Rotherham,2019 General Election,61688,3121,Lab Hold,35651
+http://data.parliament.uk/resources/1223484,Rugby,2019 General Election,72292,13447,Con Hold,50814
+http://data.parliament.uk/resources/1223485,"Ruislip, Northwood and Pinner",2019 General Election,72816,16394,Con Hold,52904
+http://data.parliament.uk/resources/1223486,Runnymede and Weybridge,2019 General Election,77196,18270,Con Hold,53289
+http://data.parliament.uk/resources/1223487,Rushcliffe,2019 General Election,77047,7643,Con Hold,60505
+http://data.parliament.uk/resources/1223488,Rutland and Melton,2019 General Election,82705,26924,Con Hold,58310
+http://data.parliament.uk/resources/1223489,Saffron Walden,2019 General Election,87017,27594,Con Hold,63086
+http://data.parliament.uk/resources/1223490,Salford and Eccles,2019 General Election,82202,16327,Lab Hold,50632
+http://data.parliament.uk/resources/1223491,Salisbury,2019 General Election,74556,19736,Con Hold,53730
+http://data.parliament.uk/resources/1223492,Scarborough and Whitby,2019 General Election,74404,10270,Con Hold,49724
+http://data.parliament.uk/resources/1223493,Scunthorpe,2019 General Election,61955,6451,Con Gain,37750
+http://data.parliament.uk/resources/1223494,Sedgefield,2019 General Election,64325,4513,Con Gain,41566
+http://data.parliament.uk/resources/1223495,Sefton Central,2019 General Election,69760,15122,Lab Hold,50880
+http://data.parliament.uk/resources/1223496,Selby and Ainsty,2019 General Election,78398,20137,Con Hold,56418
+http://data.parliament.uk/resources/1223497,Sevenoaks,2019 General Election,71757,20818,Con Hold,50956
+http://data.parliament.uk/resources/1223498,Sheffield Central,2019 General Election,89849,27273,Lab Hold,50913
+http://data.parliament.uk/resources/1223499,Sheffield South East,2019 General Election,67832,4289,Lab Hold,41998
+http://data.parliament.uk/resources/1223500,"Sheffield, Brightside and Hillsborough",2019 General Election,69333,12274,Lab Hold,39600
+http://data.parliament.uk/resources/1223501,"Sheffield, Hallam",2019 General Election,72763,712,Lab Hold,56885
+http://data.parliament.uk/resources/1223502,"Sheffield, Heeley",2019 General Election,66940,8520,Lab Hold,42695
+http://data.parliament.uk/resources/1223503,Sherwood,2019 General Election,77888,16186,Con Hold,52709
+http://data.parliament.uk/resources/1223504,Shipley,2019 General Election,74029,6242,Con Hold,54004
+http://data.parliament.uk/resources/1223505,Shrewsbury and Atcham,2019 General Election,82238,11217,Con Hold,59065
+http://data.parliament.uk/resources/1223506,Sittingbourne and Sheppey,2019 General Election,83917,24479,Con Hold,51394
+http://data.parliament.uk/resources/1223507,Skipton and Ripon,2019 General Election,78673,23694,Con Hold,58724
+http://data.parliament.uk/resources/1223508,Sleaford and North Hykeham,2019 General Election,94761,32565,Con Hold,66554
+http://data.parliament.uk/resources/1223509,Slough,2019 General Election,86818,13640,Lab Hold,51038
+http://data.parliament.uk/resources/1223510,Solihull,2019 General Election,78760,21273,Con Hold,55344
+http://data.parliament.uk/resources/1223511,Somerton and Frome,2019 General Election,85866,19213,Con Hold,64896
+http://data.parliament.uk/resources/1223512,South Antrim,2019 General Election,71711,2689,DUP Hold,42974
+http://data.parliament.uk/resources/1223513,South Basildon and East Thurrock,2019 General Election,74441,19922,Con Hold,45297
+http://data.parliament.uk/resources/1223514,South Cambridgeshire,2019 General Election,87288,2904,Con Hold,66929
+http://data.parliament.uk/resources/1223515,South Derbyshire,2019 General Election,79331,19335,Con Hold,53381
+http://data.parliament.uk/resources/1223516,South Dorset,2019 General Election,73809,17153,Con Hold,51058
+http://data.parliament.uk/resources/1223517,South Down,2019 General Election,79175,1620,SF Hold,49762
+http://data.parliament.uk/resources/1223518,South East Cambridgeshire,2019 General Election,86769,11490,Con Hold,64385
+http://data.parliament.uk/resources/1223519,South East Cornwall,2019 General Election,71825,20971,Con Hold,53655
+http://data.parliament.uk/resources/1223520,South Holland and The Deepings,2019 General Election,75975,30838,Con Hold,49179
+http://data.parliament.uk/resources/1223521,South Leicestershire,2019 General Election,80520,24004,Con Hold,57469
+http://data.parliament.uk/resources/1223522,South Norfolk,2019 General Election,86214,21275,Con Hold,62484
+http://data.parliament.uk/resources/1223523,South Northamptonshire,2019 General Election,90842,27761,Con Hold,66908
+http://data.parliament.uk/resources/1223524,South Ribble,2019 General Election,75351,11199,Con Hold,53784
+http://data.parliament.uk/resources/1223525,South Shields,2019 General Election,62793,9585,Lab Hold,37882
+http://data.parliament.uk/resources/1223526,South Staffordshire,2019 General Election,73668,28250,Con Hold,50005
+http://data.parliament.uk/resources/1223527,South Suffolk,2019 General Election,76201,22897,Con Hold,53489
+http://data.parliament.uk/resources/1223528,South Swindon,2019 General Election,73118,6625,Con Hold,50746
+http://data.parliament.uk/resources/1223529,South Thanet,2019 General Election,73223,10587,Con Hold,48257
+http://data.parliament.uk/resources/1223530,South West Bedfordshire,2019 General Election,79926,18583,Con Hold,53307
+http://data.parliament.uk/resources/1223531,South West Devon,2019 General Election,72535,21430,Con Hold,53367
+http://data.parliament.uk/resources/1223532,South West Hertfordshire,2019 General Election,80499,14408,Con Hold,61191
+http://data.parliament.uk/resources/1223533,South West Norfolk,2019 General Election,78455,26195,Con Hold,51466
+http://data.parliament.uk/resources/1223534,South West Surrey,2019 General Election,79096,8817,Con Hold,60340
+http://data.parliament.uk/resources/1223535,South West Wiltshire,2019 General Election,77969,21630,Con Hold,54895
+http://data.parliament.uk/resources/1223536,"Southampton, Itchen",2019 General Election,72299,4498,Con Hold,47421
+http://data.parliament.uk/resources/1223537,"Southampton, Test",2019 General Election,70116,6213,Lab Hold,44994
+http://data.parliament.uk/resources/1223538,Southend West,2019 General Election,69043,14459,Con Hold,46537
+http://data.parliament.uk/resources/1223539,Southport,2019 General Election,70837,4147,Con Hold,48180
+http://data.parliament.uk/resources/1223540,Spelthorne,2019 General Election,70929,18393,Con Hold,49510
+http://data.parliament.uk/resources/1223541,St Albans,2019 General Election,73727,6293,LD Gain,57599
+http://data.parliament.uk/resources/1223542,St Austell and Newquay,2019 General Election,79930,16526,Con Hold,55776
+http://data.parliament.uk/resources/1223543,St Helens North,2019 General Election,75593,12209,Lab Hold,47561
+http://data.parliament.uk/resources/1223544,St Helens South and Whiston,2019 General Election,79061,19122,Lab Hold,50313
+http://data.parliament.uk/resources/1223545,St Ives,2019 General Election,68795,4280,Con Hold,51413
+http://data.parliament.uk/resources/1223546,Stafford,2019 General Election,72572,14377,Con Hold,51149
+http://data.parliament.uk/resources/1223547,Staffordshire Moorlands,2019 General Election,65485,16428,Con Hold,43656
+http://data.parliament.uk/resources/1223548,Stalybridge and Hyde,2019 General Election,73064,2946,Lab Hold,42368
+http://data.parliament.uk/resources/1223549,Stevenage,2019 General Election,71562,8562,Con Hold,47683
+http://data.parliament.uk/resources/1223550,Stockport,2019 General Election,65391,10039,Lab Hold,41715
+http://data.parliament.uk/resources/1223551,Stockton North,2019 General Election,66649,1027,Lab Hold,41156
+http://data.parliament.uk/resources/1223552,Stockton South,2019 General Election,76870,5260,Con Gain,54802
+http://data.parliament.uk/resources/1223553,Stoke-on-Trent Central,2019 General Election,55419,670,Con Gain,32070
+http://data.parliament.uk/resources/1223554,Stoke-on-Trent North,2019 General Election,68298,6286,Con Gain,40134
+http://data.parliament.uk/resources/1223555,Stoke-on-Trent South,2019 General Election,64491,11271,Con Hold,39604
+http://data.parliament.uk/resources/1223556,Stone,2019 General Election,69378,19945,Con Hold,49843
+http://data.parliament.uk/resources/1223557,Stourbridge,2019 General Election,69891,13571,Con Hold,45689
+http://data.parliament.uk/resources/1223558,Strangford,2019 General Election,66928,7071,DUP Hold,37485
+http://data.parliament.uk/resources/1223559,Stratford-on-Avon,2019 General Election,74037,19972,Con Hold,55048
+http://data.parliament.uk/resources/1223560,Streatham,2019 General Election,84783,17690,Lab Hold,56513
+http://data.parliament.uk/resources/1223561,Stretford and Urmston,2019 General Election,72372,16417,Lab Hold,50067
+http://data.parliament.uk/resources/1223562,Stroud,2019 General Election,84537,3840,Con Gain,65930
+http://data.parliament.uk/resources/1223563,Suffolk Coastal,2019 General Election,81910,20533,Con Hold,58308
+http://data.parliament.uk/resources/1223564,Sunderland Central,2019 General Election,72680,2964,Lab Hold,43476
+http://data.parliament.uk/resources/1223565,Surrey Heath,2019 General Election,81349,18349,Con Hold,58654
+http://data.parliament.uk/resources/1223566,Sutton and Cheam,2019 General Election,71779,8351,Con Hold,50487
+http://data.parliament.uk/resources/1223567,Sutton Coldfield,2019 General Election,75638,19272,Con Hold,52325
+http://data.parliament.uk/resources/1223568,Swansea East,2019 General Election,58450,7970,Lab Hold,33579
+http://data.parliament.uk/resources/1223569,Swansea West,2019 General Election,57078,8116,Lab Hold,35830
+http://data.parliament.uk/resources/1223570,Tamworth,2019 General Election,71572,19634,Con Hold,46056
+http://data.parliament.uk/resources/1223571,Tatton,2019 General Election,69018,17387,Con Hold,48967
+http://data.parliament.uk/resources/1223572,Taunton Deane,2019 General Election,88676,11700,Con Hold,63733
+http://data.parliament.uk/resources/1223573,Telford,2019 General Election,68921,10941,Con Hold,42825
+http://data.parliament.uk/resources/1223574,Tewkesbury,2019 General Election,83958,22410,Con Hold,61140
+http://data.parliament.uk/resources/1223575,The Cotswolds,2019 General Election,81939,20214,Con Hold,61176
+http://data.parliament.uk/resources/1223576,The Wrekin,2019 General Election,70693,18726,Con Hold,48890
+http://data.parliament.uk/resources/1223577,Thirsk and Malton,2019 General Election,80991,25154,Con Hold,56588
+http://data.parliament.uk/resources/1223578,Thornbury and Yate,2019 General Election,69492,12369,Con Hold,52243
+http://data.parliament.uk/resources/1223579,Thurrock,2019 General Election,79659,11482,Con Hold,47467
+http://data.parliament.uk/resources/1223580,Tiverton and Honiton,2019 General Election,82953,24239,Con Hold,59613
+http://data.parliament.uk/resources/1223581,Tonbridge and Malling,2019 General Election,79278,26941,Con Hold,57003
+http://data.parliament.uk/resources/1223582,Tooting,2019 General Election,76954,14307,Lab Hold,58473
+http://data.parliament.uk/resources/1223583,Torbay,2019 General Election,75054,17749,Con Hold,50426
+http://data.parliament.uk/resources/1223584,Torfaen,2019 General Election,62330,3742,Lab Hold,37176
+http://data.parliament.uk/resources/1223585,Torridge and West Devon,2019 General Election,80403,24992,Con Hold,59730
+http://data.parliament.uk/resources/1223586,Totnes,2019 General Election,69863,12724,Con Hold,52182
+http://data.parliament.uk/resources/1223587,Tottenham,2019 General Election,75740,30175,Lab Hold,46856
+http://data.parliament.uk/resources/1223588,Truro and Falmouth,2019 General Election,76719,4561,Con Hold,59190
+http://data.parliament.uk/resources/1223589,Tunbridge Wells,2019 General Election,74823,14645,Con Hold,54650
+http://data.parliament.uk/resources/1223590,Twickenham,2019 General Election,84906,14121,LD Hold,64503
+http://data.parliament.uk/resources/1223591,Tynemouth,2019 General Election,77261,4857,Lab Hold,56034
+http://data.parliament.uk/resources/1223592,Upper Bann,2019 General Election,82887,8210,DUP Hold,50045
+http://data.parliament.uk/resources/1223593,Uxbridge and South Ruislip,2019 General Election,70365,7210,Con Hold,48187
+http://data.parliament.uk/resources/1223594,Vale of Clwyd,2019 General Election,56649,1827,Con Gain,37213
+http://data.parliament.uk/resources/1223595,Vale of Glamorgan,2019 General Election,76508,3562,Con Hold,54807
+http://data.parliament.uk/resources/1223596,Vauxhall,2019 General Election,88659,19612,Lab Hold,56333
+http://data.parliament.uk/resources/1223597,Wakefield,2019 General Election,70192,3358,Con Gain,45027
+http://data.parliament.uk/resources/1223598,Wallasey,2019 General Election,66310,18322,Lab Hold,46492
+http://data.parliament.uk/resources/1223599,Walsall North,2019 General Election,67177,11965,Con Hold,36556
+http://data.parliament.uk/resources/1223600,Walsall South,2019 General Election,68024,3456,Lab Hold,42472
+http://data.parliament.uk/resources/1223601,Walthamstow,2019 General Election,70267,30862,Lab Hold,48335
+http://data.parliament.uk/resources/1223602,Wansbeck,2019 General Election,63339,814,Lab Hold,40509
+http://data.parliament.uk/resources/1223603,Wantage,2019 General Election,90867,12653,Con Hold,67173
+http://data.parliament.uk/resources/1223604,Warley,2019 General Election,62357,11511,Lab Hold,37239
+http://data.parliament.uk/resources/1223605,Warrington North,2019 General Election,72235,1509,Lab Hold,46667
+http://data.parliament.uk/resources/1223606,Warrington South,2019 General Election,86015,2010,Con Gain,61899
+http://data.parliament.uk/resources/1223607,Warwick and Leamington,2019 General Election,76362,789,Lab Hold,54205
+http://data.parliament.uk/resources/1223608,Washington and Sunderland West,2019 General Election,66278,3723,Lab Hold,37513
+http://data.parliament.uk/resources/1223609,Watford,2019 General Election,83359,4433,Con Hold,58065
+http://data.parliament.uk/resources/1223610,Waveney,2019 General Election,82791,18002,Con Hold,51129
+http://data.parliament.uk/resources/1223611,Wealden,2019 General Election,82998,25655,Con Hold,60907
+http://data.parliament.uk/resources/1223612,Weaver Vale,2019 General Election,70551,562,Lab Hold,50713
+http://data.parliament.uk/resources/1223613,Wellingborough,2019 General Election,80765,18540,Con Hold,51913
+http://data.parliament.uk/resources/1223614,Wells,2019 General Election,84124,9991,Con Hold,61628
+http://data.parliament.uk/resources/1223615,Welwyn Hatfield,2019 General Election,74892,10955,Con Hold,52053
+http://data.parliament.uk/resources/1223616,Wentworth and Dearne,2019 General Election,74536,2165,Lab Hold,41557
+http://data.parliament.uk/resources/1223617,West Bromwich East,2019 General Election,62046,1593,Con Gain,35975
+http://data.parliament.uk/resources/1223618,West Bromwich West,2019 General Election,64517,3799,Con Gain,34459
+http://data.parliament.uk/resources/1223619,West Dorset,2019 General Election,81897,14106,Con Hold,60925
+http://data.parliament.uk/resources/1223620,West Ham,2019 General Election,97947,32388,Lab Hold,60200
+http://data.parliament.uk/resources/1223621,West Lancashire,2019 General Election,73347,8336,Lab Hold,52663
+http://data.parliament.uk/resources/1223622,West Suffolk,2019 General Election,80193,23194,Con Hold,51437
+http://data.parliament.uk/resources/1223623,West Tyrone,2019 General Election,66259,7478,SF Hold,41186
+http://data.parliament.uk/resources/1223624,West Worcestershire,2019 General Election,76241,24499,Con Hold,57530
+http://data.parliament.uk/resources/1223625,Westminster North,2019 General Election,65519,10759,Lab Hold,42911
+http://data.parliament.uk/resources/1223626,Westmorland and Lonsdale,2019 General Election,67789,1934,LD Hold,52712
+http://data.parliament.uk/resources/1223627,Weston-super-Mare,2019 General Election,82526,17121,Con Hold,55614
+http://data.parliament.uk/resources/1223628,Wigan,2019 General Election,75680,6728,Lab Hold,45042
+http://data.parliament.uk/resources/1223629,Wimbledon,2019 General Election,68240,628,Con Hold,53027
+http://data.parliament.uk/resources/1223630,Winchester,2019 General Election,75582,985,Con Hold,58890
+http://data.parliament.uk/resources/1223631,Windsor,2019 General Election,75038,20079,Con Hold,53750
+http://data.parliament.uk/resources/1223632,Wirral South,2019 General Election,57280,6105,Lab Hold,43547
+http://data.parliament.uk/resources/1223633,Wirral West,2019 General Election,55550,3003,Lab Hold,42918
+http://data.parliament.uk/resources/1223634,Witham,2019 General Election,70402,24082,Con Hold,49344
+http://data.parliament.uk/resources/1223635,Witney,2019 General Election,83845,15177,Con Hold,61305
+http://data.parliament.uk/resources/1223636,Woking,2019 General Election,75424,9767,Con Hold,53937
+http://data.parliament.uk/resources/1223637,Wokingham,2019 General Election,83953,7383,Con Hold,61997
+http://data.parliament.uk/resources/1223638,Wolverhampton North East,2019 General Election,61660,4080,Con Gain,34281
+http://data.parliament.uk/resources/1223639,Wolverhampton South East,2019 General Election,62883,1235,Lab Hold,33443
+http://data.parliament.uk/resources/1223640,Wolverhampton South West,2019 General Election,60534,1661,Con Gain,41136
+http://data.parliament.uk/resources/1223641,Worcester,2019 General Election,73485,6758,Con Hold,50898
+http://data.parliament.uk/resources/1223642,Workington,2019 General Election,61370,4176,Con Gain,41599
+http://data.parliament.uk/resources/1223643,Worsley and Eccles South,2019 General Election,75219,3219,Lab Hold,44707
+http://data.parliament.uk/resources/1223644,Worthing West,2019 General Election,78585,14823,Con Hold,54648
+http://data.parliament.uk/resources/1223645,Wrexham,2019 General Election,49737,2131,Con Gain,33532
+http://data.parliament.uk/resources/1223646,Wycombe,2019 General Election,78093,4214,Con Hold,54756
+http://data.parliament.uk/resources/1223647,Wyre and Preston North,2019 General Election,74775,16781,Con Hold,52924
+http://data.parliament.uk/resources/1223648,Wyre Forest,2019 General Election,78077,21413,Con Hold,50561
+http://data.parliament.uk/resources/1223649,Wythenshawe and Sale East,2019 General Election,76313,10396,Lab Hold,44759
+http://data.parliament.uk/resources/1223650,Yeovil,2019 General Election,82468,16181,Con Hold,59260
+http://data.parliament.uk/resources/1223651,Ynys Môn,2019 General Election,51925,1968,Con Gain,36552
+http://data.parliament.uk/resources/1223652,York Central,2019 General Election,74899,13545,Lab Hold,49505
+http://data.parliament.uk/resources/1223653,York Outer,2019 General Election,74673,9985,Con Hold,55347
